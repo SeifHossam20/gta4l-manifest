@@ -10,4 +10,6 @@
   <project name="SeifHossam20/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" remote="github" revision="lineage-21" />
   <!-- Kernel sources -->
   <project name="SeifHossam20/android_kernel_samsung_sm6115" path="kernel/samsung/sm6115" remote="github" revision="lineage-21" />
+
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-21" />
 </manifest>
