@@ -3,7 +3,7 @@
   <!-- Device trees -->
   <project name="SeifHossam20/android_device_samsung_gta4l-common" path="device/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
   <project name="SeifHossam20/android_device_samsung_gta4lwifi" path="device/samsung/gta4lwifi" remote="github" revision="lineage-22.2" />
-  <project name="SeifHossam20/android_device_samsung_gta4l" path="device/samsung/gta4l" remote="github" revision="lineage-22.2" />
+  <project name="SeifHossam20/android_device_samsung_gta4l" path="device/samsung/gta4l" remote="github" revision="vic" />
   <!-- Vendor trees -->
   <project name="SeifHossam20/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" remote="github" revision="lineage-22.2" />
   <project name="SeifHossam20/proprietary_vendor_samsung_gta4lwifi" path="vendor/samsung/gta4lwifi" remote="github" revision="lineage-22.2" />
